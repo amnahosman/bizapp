@@ -1,0 +1,14 @@
+<div class="border-bottom mb-4 row" style='padding-bottom:8px;'>
+    <div class="col-9">
+    <div class='lead'><b>{{j['title']}}</b></div>
+    <div class='lead'><b>Location:</b> {{j['location']}}</div>
+    {% if 'salary' in j %}
+        <div class='lead'><b>Salary:</b> {{j['salary']}}</div>
+    {% endif %}
+    </div>
+    <div class="col-3">
+    <button class="btn btn-outline-secondary btn-sm" type="button">
+        Apply Now
+    </button>
+    </div>
+</div>

@@ -1,0 +1,331 @@
+[
+    {
+        "Name": "John",
+        "Age": 30,
+        "City": "New York",
+        "Occupation": "Engineer",
+        "Hobby": "Reading",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Alice",
+        "Age": 25,
+        "City": "Los Angeles",
+        "Occupation": "Doctor",
+        "Hobby": "Swimming",
+        "Education": "Master's degree"
+    },
+    {
+        "Name": "Bob",
+        "Age": 35,
+        "City": "Chicago",
+        "Occupation": "Artist",
+        "Hobby": "Painting",
+        "Education": "Art school"
+    },
+    {
+        "Name": "Emma",
+        "Age": 28,
+        "City": "San Francisco",
+        "Occupation": "Teacher",
+        "Hobby": "Cooking",
+        "Education": "Teaching credential"
+    },
+    {
+        "Name": "Daniel",
+        "Age": 40,
+        "City": "Boston",
+        "Occupation": "Writer",
+        "Hobby": "Writing",
+        "Education": "Master's degree"
+    },
+    {
+        "Name": "Ethan",
+        "Age": 32,
+        "City": "Seattle",
+        "Occupation": "Software Engineer",
+        "Hobby": "Gaming",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Sophia",
+        "Age": 29,
+        "City": "Miami",
+        "Occupation": "Marketing Manager",
+        "Hobby": "Traveling",
+        "Education": "Master's degree"
+    },
+    {
+        "Name": "Mia",
+        "Age": 27,
+        "City": "Austin",
+        "Occupation": "Graphic Designer",
+        "Hobby": "Photography",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Aiden",
+        "Age": 34,
+        "City": "Denver",
+        "Occupation": "Financial Analyst",
+        "Hobby": "Golf",
+        "Education": "Master's degree"
+    },
+    {
+        "Name": "Olivia",
+        "Age": 31,
+        "City": "San Diego",
+        "Occupation": "Lawyer",
+        "Hobby": "Hiking",
+        "Education": "Law degree"
+    },
+    {
+        "Name": "Logan",
+        "Age": 26,
+        "City": "Portland",
+        "Occupation": "Architect",
+        "Hobby": "Sculpting",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Amelia",
+        "Age": 30,
+        "City": "Atlanta",
+        "Occupation": "HR Manager",
+        "Hobby": "Cooking",
+        "Education": "Master's degree"
+    },
+    {
+        "Name": "Lucas",
+        "Age": 33,
+        "City": "Dallas",
+        "Occupation": "Real Estate Agent",
+        "Hobby": "Fitness",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Isabella",
+        "Age": 28,
+        "City": "Phoenix",
+        "Occupation": "Teacher",
+        "Hobby": "Reading",
+        "Education": "Teaching credential"
+    },
+    {
+        "Name": "William",
+        "Age": 35,
+        "City": "Houston",
+        "Occupation": "Consultant",
+        "Hobby": "Music",
+        "Education": "Master's degree"
+    },
+    {
+        "Name": "James",
+        "Age": 32,
+        "City": "Las Vegas",
+        "Occupation": "Entrepreneur",
+        "Hobby": "Traveling",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Charlotte",
+        "Age": 29,
+        "City": "Philadelphia",
+        "Occupation": "Psychologist",
+        "Hobby": "Painting",
+        "Education": "Ph.D. in Psychology"
+    },
+    {
+        "Name": "Benjamin",
+        "Age": 27,
+        "City": "Detroit",
+        "Occupation": "Engineer",
+        "Hobby": "Sports",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Emma",
+        "Age": 34,
+        "City": "Minneapolis",
+        "Occupation": "Data Analyst",
+        "Hobby": "Dancing",
+        "Education": "Master's degree"
+    },
+    {
+        "Name": "Michael",
+        "Age": 31,
+        "City": "Chicago",
+        "Occupation": "Chef",
+        "Hobby": "Cooking",
+        "Education": "Culinary degree"
+    },
+    {
+        "Name": "Abigail",
+        "Age": 28,
+        "City": "San Francisco",
+        "Occupation": "Journalist",
+        "Hobby": "Writing",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Alexander",
+        "Age": 33,
+        "City": "Boston",
+        "Occupation": "Financial Planner",
+        "Hobby": "Investing",
+        "Education": "Master's degree"
+    },
+    {
+        "Name": "Harper",
+        "Age": 30,
+        "City": "New York",
+        "Occupation": "Fashion Designer",
+        "Hobby": "Fashion",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Daniel",
+        "Age": 26,
+        "City": "Los Angeles",
+        "Occupation": "Actor",
+        "Hobby": "Acting",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Madison",
+        "Age": 34,
+        "City": "Seattle",
+        "Occupation": "Project Manager",
+        "Hobby": "Skiing",
+        "Education": "Master's degree"
+    },
+    {
+        "Name": "Jackson",
+        "Age": 31,
+        "City": "Miami",
+        "Occupation": "Investment Banker",
+        "Hobby": "Traveling",
+        "Education": "Master's degree"
+    },
+    {
+        "Name": "Evelyn",
+        "Age": 29,
+        "City": "Austin",
+        "Occupation": "Software Developer",
+        "Hobby": "Programming",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Joseph",
+        "Age": 27,
+        "City": "Denver",
+        "Occupation": "Dentist",
+        "Hobby": "Golf",
+        "Education": "Dental degree"
+    },
+    {
+        "Name": "Scarlett",
+        "Age": 33,
+        "City": "San Diego",
+        "Occupation": "Interior Designer",
+        "Hobby": "Designing",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Carter",
+        "Age": 30,
+        "City": "Portland",
+        "Occupation": "IT Consultant",
+        "Hobby": "Gaming",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Avery",
+        "Age": 28,
+        "City": "Atlanta",
+        "Occupation": "Marketing Coordinator",
+        "Hobby":"Cycling",
+        "Education":"Master's degree"
+    },
+    {
+        "Name": "Avery",
+        "Age": 28,
+        "City": "Atlanta",
+        "Occupation": "Marketing Coordinator",
+        "Hobby": "Reading",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "David",
+        "Age": 32,
+        "City": "Dallas",
+        "Occupation": "Sales Manager",
+        "Hobby": "Sports",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Sofia",
+        "Age": 29,
+        "City": "Houston",
+        "Occupation": "Event Planner",
+        "Hobby": "Traveling",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Gabriel",
+        "Age": 27,
+        "City": "Los Angeles",
+        "Occupation": "Graphic Designer",
+        "Hobby": "Drawing",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Zoe",
+        "Age": 34,
+        "City": "Chicago",
+        "Occupation": "Nurse",
+        "Hobby": "Photography",
+        "Education": "Nursing degree"
+    },
+    {
+        "Name": "Luke",
+        "Age": 31,
+        "City": "San Francisco",
+        "Occupation": "Software Engineer",
+        "Hobby": "Gaming",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Grace",
+        "Age": 29,
+        "City": "Boston",
+        "Occupation": "Lawyer",
+        "Hobby": "Reading",
+        "Education": "Law degree"
+    },
+    {
+        "Name": "Nathan",
+        "Age": 27,
+        "City": "Seattle",
+        "Occupation": "Product Manager",
+        "Hobby": "Hiking",
+        "Education": "Master's degree"
+    },
+    {
+        "Name": "Lily",
+        "Age": 33,
+        "City": "Miami",
+        "Occupation": "Interior Designer",
+        "Hobby": "Designing",
+        "Education": "Bachelor's degree"
+    },
+    {
+        "Name": "Owen",
+        "Age": 30,
+        "City": "Austin",
+        "Occupation": "Marketing Analyst",
+        "Hobby": "Traveling",
+        "Education": "Bachelor's degree"
+    }
+]
+
